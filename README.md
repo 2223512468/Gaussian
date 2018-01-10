@@ -1,3 +1,3 @@
 # Gaussian
 高斯模糊
-！[高斯模糊](Gaussian/sample/src.png)
+![image](https://github.com/2223512468/Gaussian/blob/master/sample/src.png)
